@@ -1,0 +1,7 @@
++-----------------------------------------------------+
+|		      Instruction			|
++-----------------------------------------------------+
+
+1.) Run the following command below via terminal.
+
+		bash install.sh
