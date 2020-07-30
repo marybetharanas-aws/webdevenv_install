@@ -34,7 +34,7 @@ sudo mkdir -p /var/lib/mongo
 sudo mkdir -p /var/log/mongodb
 sudo chown $USER /var/lib/mongo
 sudo chown $USER /var/log/mongodb 
-sudo mkdir -p /data/db
+sudo mkdir -p ~/data/db
 
 # Install MongoDB Compass
 sudo dpkg -i ./$mongodbcompass
